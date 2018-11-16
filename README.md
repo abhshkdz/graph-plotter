@@ -1,14 +1,14 @@
-#Graph Plotter
+# Graph Plotter
 
 Project made in class XII as part of the CBSE Computer Science course.
 
-##Features
+## Features
 
 1. Plot polynomials, trigonometric functions, parabolas.
 2. Solve multiple polynomials graphically.
 3. Save a graph for later use.
 
-##Screenshots
+## Screenshots
 
 ![](https://raw.github.com/abhshkdz/graph-plotter/master/pics/welcome.png)
 ![](https://raw.github.com/abhshkdz/graph-plotter/master/pics/menu1.png)
@@ -20,7 +20,7 @@ Project made in class XII as part of the CBSE Computer Science course.
 
 **Works in Turbo C++ only**
 
-##License
+## License
 
 The MIT License (MIT)  
 Copyright © 2012 Abhishek Das
